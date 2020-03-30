@@ -1,4 +1,4 @@
-import { lists as defaultLists } from '../src/normalized-state';
+import { lists as defaultLists } from '../normalized-state';
 
 const listsReducer = (lists = defaultLists, action) => {
 	console.log(lists, action);
