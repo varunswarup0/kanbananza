@@ -10,7 +10,7 @@ const List = ({ list = {}, removeList }) => {
 			<CreateCard />
 			<div>
 				{list.cards.map(cardId => (
-					<CardContainer key={cardId} cardId={cardId} listId={list.id} />
+					<CardContainer key={cardId} cardId={cardId} />
 				))}
 			</div>
 		</article>
