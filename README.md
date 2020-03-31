@@ -1,34 +1,19 @@
-# Kanbonanza
+# KANBANANZA
 
-## Course
+|[DOCUMENTATION](https://redux.js.org/ "Redux's Docs")       |
+| ------------- |
 
-This project was built to teach the [Advanced State Management in React (feat. Redux and MobX) Course](https://frontendmasters.com/courses/react-state/) for Frontend Masters.
+> A Fast and scalable App made with Redux 
+> which will serve as a boilerplate for future Redux-based apps 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  * Includes Redux Toolkit to kickstart Redux app
+  * React and Redux connected via react-redux
+  * Follows industry best practices and recommended patterns
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](https://github.com/varunswarup0/bug-cop/blob/master/bug-cop.jpg)
