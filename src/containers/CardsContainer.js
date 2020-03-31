@@ -1,8 +1,6 @@
 import { connect } from 'react-redux';
 import Card from '../components/Card';
 import { removeCard } from '../actions/card-actions';
-import memoize from 'lodash/memoize';
-import { createSelector } from 'reselect';
 
 const mapStateToProps = (state, ownProps) => {
 	return {
