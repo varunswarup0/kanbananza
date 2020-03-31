@@ -16,4 +16,4 @@
 
 
 
-![alt text](https://github.com/varunswarup0/bug-cop/blob/master/bug-cop.jpg)
+![alt text](https://github.com/varunswarup0/kanbananza/blob/ready-for-reselect/Screenshot_2020-03-31%20Kanbonanza(1).png)
